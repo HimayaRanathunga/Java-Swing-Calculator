@@ -28,8 +28,9 @@ A simple GUI-based calculator application built using Java Swing. This calculato
 
 #🔧 Screenshot
 (You can include a screenshot here by uploading an image and using the markdown syntax like this)
-![Calculator Screenshot](![Screenshot 2025-04-17 211537](https://github.com/user-attachments/assets/34ad073f-94f9-4ba2-bf00-4dbffce3a9b7)
-screenshot.png)
+![Calculator Screenshot]
+(![Screenshot 2025-04-17 211537](https://github.com/user-attachments/assets/34ad073f-94f9-4ba2-bf00-4dbffce3a9b7)
+
 
 #🛠 To-Do / Improvements
 -Add keyboard input support
